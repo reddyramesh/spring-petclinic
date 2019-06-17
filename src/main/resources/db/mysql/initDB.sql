@@ -1,4 +1,3 @@
-
 USE petclinic;
 
 CREATE TABLE IF NOT EXISTS vets (
